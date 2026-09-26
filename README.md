@@ -4,3 +4,6 @@ I want to create a digital portfolio to showcase my projects and skills, and som
 
 ## Subheading
 more content
+
+## Updating the readme
+I added this line to practice making a Pull Request
